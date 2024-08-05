@@ -63,7 +63,7 @@ header {
 .dropdown-icon {
     width: 60px; 
     height: 60px; 
-    background-image: url('SI\ logo.png'); 
+    background-image: url('img/SI logo.png'); 
     background-size: contain; 
     background-repeat: no-repeat; 
     background-position: center; 
@@ -117,8 +117,8 @@ main {
     height: 300px;
     background-color: #e0e0e0;
     background-image: 
-        url('favpng_iron-man-howard-stark-pepper-potts-stark-industries-decal.png'),
-        url('image-from-rawpixel-id-3864410-jpeg.jpg');
+        url('img/favpng_iron-man-howard-stark-pepper-potts-stark-industries-decal.png'),
+        url('img/image-from-rawpixel-id-3864410-jpeg.jpg');
     background-size: 35%, cover;
     background-repeat: no-repeat, no-repeat;
     background-position: center, center;
@@ -128,7 +128,7 @@ main {
 }
 
 .contact-form-container {
-    background-image: url('image-from-rawpixel-id-3286055-original.jpg'); 
+    background-image: url('img/image-from-rawpixel-id-3286055-original.jpg'); 
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center; 
